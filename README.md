@@ -1,4 +1,4 @@
-https://dev.azure.com/Lab01Az400/Integracao%20Com%20GitHub/_apis/build/status%2Fodeciop-out.calculator?branchName=master
+[![Build Status](https://dev.azure.com/Lab01Az400/Integracao%20Com%20GitHub/_apis/build/status%2Fodeciop-out.calculator?branchName=master)](https://dev.azure.com/Lab01Az400/Integracao%20Com%20GitHub/_build/latest?definitionId=3&branchName=master)
 
 Calculator.js: a node.js Demonstration Project
 ==============================================
