@@ -1,3 +1,5 @@
+https://dev.azure.com/Lab01Az400/Integracao%20Com%20GitHub/_apis/build/status%2Fodeciop-out.calculator?branchName=master
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
